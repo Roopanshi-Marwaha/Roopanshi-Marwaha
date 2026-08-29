@@ -12,7 +12,7 @@
 ### 🚀 About Me
 
 - 🎓 B.Tech in Computer Engineering, TIET, Patiala — GPA 9.30/10 — expected graduation **May 2028**
-- 🔭 Currently building full-stack and ML-based projects, and leveling up on core CS + DSA
+- 🔭 Currently building full stack and ML based projects, and leveling up on core CS + DSA
 - 🏆 Top 0.5% performer, **The Big Code 2026** (Google India) — Top 1,500 of 300,000+ participants
 - 💎 CodeChef Diamond Badge — 1,000+ problems solved
 - 🌱 Core member, **Microsoft Learn Student Chapter (MLSC)**, Thapar Institute
@@ -77,7 +77,7 @@ AI-powered credit scoring system using alternative data, explainable AI, risk ba
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Roopanshi-Marwaha&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roopanshi-Marwaha&theme=tokyonight" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=Roopanshi-Marwaha&theme=tokyonight" width="48%"/>
 </p>
 
 <p align="center">
