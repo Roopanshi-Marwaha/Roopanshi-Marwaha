@@ -11,7 +11,6 @@
   <a href="mailto:roopanshimarwaha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://leetcode.com/u/Roopanshi"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="https://www.codechef.com/users/rmarwaha_be24"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Roopanshi-Marwaha&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS" />
 </p>
 
 </div>
@@ -132,7 +131,7 @@ AI-powered credit scoring using alternative data, explainable AI, risk banding &
 
 <div align="center">
 
-📫 **Let's connect** — always open to interesting projects, internships, and collaborations!
+📫 **Let's connect** always open to interesting projects, internships, and collaborations!
 
 <a href="https://linkedin.com/in/roopanshi-marwaha-84339432a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
