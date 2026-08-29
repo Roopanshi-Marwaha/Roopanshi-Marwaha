@@ -11,6 +11,7 @@
   <a href="mailto:roopanshimarwaha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://leetcode.com/u/Roopanshi"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="https://www.codechef.com/users/rmarwaha_be24"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Roopanshi-Marwaha&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS" />
 </p>
 
 </div>
@@ -125,12 +126,13 @@ AI-powered credit scoring using alternative data, explainable AI, risk banding &
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Roopanshi-Marwaha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roopanshi-Marwaha&layout=compact&theme=tokyonight&hide_border=true"/>
+[![GitHub followers](https://img.shields.io/github/followers/Roopanshi-Marwaha?style=for-the-badge&color=8b5cf6&logo=github&label=Followers)](https://github.com/Roopanshi-Marwaha?tab=followers)
 
-<img src="https://streak-stats.demolab.com/?user=Roopanshi-Marwaha&theme=tokyonight&hide_border=true" width="60%"/>
+| 🔥 Contributions | ⚡ Current Streak | 🏆 Longest Streak | 📦 Public Repos |
+|:---:|:---:|:---:|:---:|
+| 127+ (Aug 2024 – Present) | 4 days | 4 days | 15+ |
 
-<img src="https://github-profile-trophy.vercel.app/?username=Roopanshi-Marwaha&theme=tokyonight&no-frame=true&row=1&column=6" width="90%"/>
+<sub>*(Update these numbers from your [GitHub profile](https://github.com/Roopanshi-Marwaha) whenever you like — they're plain text, so they never break.)*</sub>
 
 </div>
 
