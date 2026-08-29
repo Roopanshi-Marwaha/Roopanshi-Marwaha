@@ -24,8 +24,8 @@
 - 🏆 **Top 0.5% performer**, The Big Code 2026 (Google India) — ranked in the **Top 1,500 of 300,000+** participants nationwide
 - 💎 **CodeChef Diamond Badge** — 1,000+ competitive programming problems solved
 - 🌍 **Top 30 of 200+ teams**, CyberAI Hackathon @ University of Derby, UK — built *Saksham*, an AI credit-scoring MVP, in a 36-hour sprint
-- 🌱 Core Member, **Microsoft Learn Student Chapter (MLSC)**, Thapar — helped run *Hackspire* and onboarded 500+ juniors
-- 🎭 Core Member, **Saturnalia** — Thapar's annual cultural fest, run by a 1000+ member organizing team
+- 🌱 Core Member, **Microsoft Learn Student Chapter (MLSC)**, Thapar (2024–2025) — helped run *Hackspire* and onboarded 150+ juniors
+- 🎭 Core Member, **Saturnalia** (2024–2025) — Thapar's annual cultural fest, run by a 1000+ member organizing team
 - 💬 Ask me about DSA, full-stack development, or applied machine learning
 
 ---
