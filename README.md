@@ -125,15 +125,7 @@ AI-powered credit scoring using alternative data, explainable AI, risk banding &
 ### 📊 GitHub Stats
 
 <div align="center">
-
-[![GitHub followers](https://img.shields.io/github/followers/Roopanshi-Marwaha?style=for-the-badge&color=8b5cf6&logo=github&label=Followers)](https://github.com/Roopanshi-Marwaha?tab=followers)
-
-| 🔥 Contributions | ⚡ Current Streak | 🏆 Longest Streak | 📦 Public Repos |
-|:---:|:---:|:---:|:---:|
-| 127+ (Aug 2024 – Present) | 4 days | 4 days | 15+ |
-
-<sub>*(Update these numbers from your [GitHub profile](https://github.com/Roopanshi-Marwaha) whenever you like — they're plain text, so they never break.)*</sub>
-
+<img src="https://streak-stats.demolab.com/?user=Roopanshi-Marwaha&theme=tokyonight&hide_border=true" width="60%"/>
 </div>
 
 ---
