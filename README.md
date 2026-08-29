@@ -65,7 +65,7 @@
 
 **[🏫 Campus Service Management System](https://github.com/SKashhh/campus-services-management-system)**
 *(Open Source Contribution)*
-Enterprise-style full-stack app with RBAC, a normalized 6-table PostgreSQL schema with automated audit-logging triggers, and a JWT-secured REST backend — **10–20× faster** analytics under 5k+ request simulations.
+Enterprise style full stack app with RBAC, a normalized 6 table PostgreSQL schema with automated audit logging triggers, and a JWT secured REST backend **10–20× faster** analytics under 5k+ request simulations.
 `React` `Node.js` `Express` `PostgreSQL` `JWT`
 
 </td>
@@ -82,14 +82,14 @@ Enterprise-style full-stack app with RBAC, a normalized 6-table PostgreSQL schem
 <td width="50%" valign="top">
 
 **[⚙️ Neural Network Predictive Maintenance](https://github.com/Roopanshi-Marwaha/neural-network-predictive-maintenance)**
-Predicted machine failures across 5 failure modes on 10K sensor readings; compared DNN, Random Forest & XGBoost — **99.2% accuracy, 0.989 ROC AUC**, with SHAP explainability + TF Lite optimization.
+Predicted machine failures across 5 failure modes on 10K sensor readings; compared DNN, Random Forest & XGBoost **99.2% accuracy, 0.989 ROC AUC**, with SHAP explainability + TF Lite optimization.
 `Python` `TensorFlow` `XGBoost` `SHAP`
 
 </td>
 <td width="50%" valign="top">
 
 **[💳 Saksham — Smart Credit Scoring](https://github.com/Roopanshi-Marwaha/saksham-smart-credit-scoring)**
-AI-powered credit scoring using alternative data, explainable AI, risk banding & blockchain-based digital identity — built as an MVP in a **36-hour hackathon** at University of Derby, UK (Top 30/200+).
+AI-powered credit scoring using alternative data, explainable AI, risk banding & blockchain-based digital identity built as an MVP in a **36 hour hackathon** at University of Derby, UK (Top 30/200+).
 `Python` `Explainable AI` `Blockchain`
 
 </td>
