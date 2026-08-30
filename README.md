@@ -121,14 +121,6 @@ AI-powered credit scoring using alternative data, explainable AI, risk banding &
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=Roopanshi-Marwaha&theme=tokyonight&hide_border=true" width="60%"/>
-</div>
-
----
-
 <div align="center">
 
 📫 **Let's connect** always open to interesting projects, internships, and collaborations!
