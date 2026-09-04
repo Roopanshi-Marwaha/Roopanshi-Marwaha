@@ -102,9 +102,8 @@ AI-powered credit scoring using alternative data, explainable AI, risk banding &
 
 | Project | Stack | Notes |
 |---|---|---|
-| [CivicSafe](https://github.com/Roopanshi-Marwaha/CivicSafe) | TypeScript | Civic-tech utility |
-| [CivicTrack](https://github.com/Roopanshi-Marwaha/CivicTrack) | HTML | Civic-tech tracker |
 | [Posture_Detector](https://github.com/Roopanshi-Marwaha/Posture_Detector) | JavaScript | Real-time posture detection |
+| [Email_Classifier](https://github.com/Roopanshi-Marwaha/Email_Classifier) | Python | Email classification model |
 | [Bangalore_House_Price_Prediction](https://github.com/Roopanshi-Marwaha/Bangalore_House_Price_Prediction) | Jupyter Notebook | Regression modeling |
 | [Car_Price_Prediction_ml](https://github.com/Roopanshi-Marwaha/Car_Price_Prediction_ml) | Jupyter Notebook | ML price prediction |
 | [Electronics-Price-Prediction-System](https://github.com/Roopanshi-Marwaha/Electronics-Price-Prediction-System) | Jupyter Notebook | ML price prediction |
