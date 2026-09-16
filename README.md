@@ -114,7 +114,7 @@ AI-powered credit scoring using alternative data, explainable AI, risk banding &
 
 ### 🏆 Achievements
 
-- 🥇 **Top 0.5% Performer**, The Big Code 2026 (Google India) — Top 1,500 of 300,000+
+- 🥇 **Top 0.5% Performer**, The Big Code 2026 (Google India) — Top 1,500 of 300,000 candidates+
 - 💎 **CodeChef Diamond Badge** — 1,000+ problems solved
 - 🌍 **Top 30 Teams**, CyberAI Hackathon, University of Derby, UK
 
